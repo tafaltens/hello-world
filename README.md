@@ -1,2 +1,3 @@
 # hello-world
 This is my first GitHub repository.
+I already went off and edited the wrong version of the file.  I was trying to follow directions...
